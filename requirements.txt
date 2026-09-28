@@ -1,0 +1,7 @@
+torch==2.8.0
+transformers
+fastapi
+uvicorn
+jinja2
+pydantic
+sentencepiece
